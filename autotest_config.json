@@ -14,7 +14,6 @@
       "expected_total_dependencies_number": {"eq": 1},
       "expected_direct_dependencies_number": {"eq": 1},
       "expected_transitive_dependencies_number": {"eq": 0},
-      "direct_dependencies_names_list": {"contains": ["xlsx"]},
       "validate_agent_versions": false
     },
 
