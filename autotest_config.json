@@ -14,9 +14,13 @@
       "expected_total_dependencies_number": {"eq": 1},
       "expected_direct_dependencies_number": {"eq": 1},
       "expected_transitive_dependencies_number": {"eq": 0},
+      "direct_dependencies_names_list": {
+        "eq": [
+          "xlsx-0.20.2.tgz"
+        ]
+      },
       "validate_agent_versions": false
     },
-
     "validate_vulnerabilities_table": true,
     "vulnerabilities_table": {
       "check_vulnerabilities_table_structure": true,
